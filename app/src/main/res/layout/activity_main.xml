@@ -247,34 +247,10 @@
         <androidx.viewpager2.widget.ViewPager2
             android:id="@+id/viewPager"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
+            android:layout_height="match_parent"
             app:layout_constraintHeight_default="spread"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@id/tabLayout" />
     </androidx.constraintlayout.widget.ConstraintLayout>
 
 </androidx.constraintlayout.motion.widget.MotionLayout>
-
-
-    <!--<de.hdodenhof.circleimageview.CircleImageView-->
-    <!--android:id="@+id/cover"-->
-    <!--android:layout_width="match_parent"-->
-    <!--android:layout_height="match_parent"-->
-    <!--android:src="@drawable/profile"-->
-    <!--app:civ_border_width="2dp"-->
-    <!--app:civ_border_color="#FF000000"/>-->
-
-    <!--<androidx.constraintlayout.utils.widget.ImageFilterView-->
-    <!--android:id="@+id/cover"-->
-    <!--android:layout_width="match_parent"-->
-    <!--android:layout_height="240dp"-->
-    <!--android:background="@color/coverOfHeader"-->
-    <!--android:scaleType="centerCrop"-->
-    <!--android:src="@drawable/lol"-->
-    <!--app:layout_constraintBottom_toTopOf="@+id/bottom"-->
-    <!--app:layout_constraintEnd_toEndOf="parent"-->
-    <!--app:layout_constraintStart_toStartOf="parent"-->
-    <!--app:layout_constraintTop_toTopOf="parent"-->
-    <!--app:roundPercent="0.0" />-->
-    <!--    android:adjustViewBounds="true"-->
-    <!--    android:cropToPadding="true"-->
