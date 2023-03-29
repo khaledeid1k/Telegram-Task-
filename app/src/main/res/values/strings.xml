@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Telegram</string>
+    <string name="description">Description</string>
+    <string name="whatDescription">Succeed if it is true</string>
+    <string name="subscribers">12,000 subscribers</string>
+    <string name="namechannel">Azkor Allah</string>
+    <string name="link">t.me/AzkorAllah</string>
+    <string name="invitelink">Invite Link</string>
+    <string name="notification">Notification</string>
+    <string name="state">on</string>
+    <string name="qr">qr</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="files">Files</string>
+    <string name="links">Links</string>
+    <string name="media">Media</string>
+    <string name="music">Music</string>
+</resources>
